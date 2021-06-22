@@ -1,5 +1,3 @@
-https://docs.google.com/forms/d/e/1FAIpQLSct3m610c56HNSj68AEAyHR9ehAW7GwNLfrfQTo0V1i-nNc2w/viewform
-https://medium.com/@reach2arunprakash/guvi-zen-code-sprint-javascript-practice-problems-in-json-objects-and-list-49ac3356a8a5
 
 
 // Problem 0 : Part A (15 mins):
