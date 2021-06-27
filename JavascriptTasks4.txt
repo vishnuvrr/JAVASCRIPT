@@ -31,8 +31,9 @@ odd=(arr)=>
 
 console.log(odd(arr));
 
-var stringArray=["guvi","geek","iit","madras","research","park"];
 //2.Convert all strings to title caps in a string array
+var stringArray=["guvi","geek","iit","madras","research","park"];
+
 
 var title=function(stringArray)
 {
